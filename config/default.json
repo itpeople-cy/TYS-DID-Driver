@@ -1,0 +1,7 @@
+{
+    "host": "http://localhost",
+    "port": 8080,
+    "logLevel": "INFO",
+    "didContextUrl": "https://w3id.org/did-resolution/v1",
+    "didResolutionContectType": "application/did+ld+json"
+}

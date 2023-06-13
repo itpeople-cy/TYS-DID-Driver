@@ -1,0 +1,10 @@
+{
+    "tys-driver": {
+        "pattern": "^(did:tys:(?:(?:\\w[-\\w]*(?::\\w[-\\w]*)*):)?(?:[1-9A-HJ-NP-Za-km-z]{21,29}))$",
+        "driverId": "driver-did-tys",
+        "apiUrl": "http://52.72.123.100:3001/api/v1/dids",
+        "testIdentifiers": [
+            "did:tys:4B4AbVzzcJSnCZsdX4VaKyQgHRnC"
+        ]
+    }
+}
