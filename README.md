@@ -37,11 +37,11 @@ After doing the changes as mentioned in the above structure add this into the `c
 ### Build a Docker Image
  
 After adding the driver, next step is to build it as docker image
-- `docker build -t itpeople-cy/driver-did-tys .`
+- `docker build -t itpeoplecorp/tys-did-driver .`
 
 Once the docker image is build, next step is to push the above mentioned image.
 Current image version is `1.0`. So each time an image is build you need to add the current version with `0.1`
-- `docker push itpeople-cy/driver-did-cy:1.1`
+- `docker push itpeoplecorp/tys-did-driver:1.1`
 
 ### Bring up the Service
 
